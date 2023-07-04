@@ -27,20 +27,3 @@ I'm a open-source development enthusiast and a freelancer.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
-
-### My Github Stats
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=venkatesh-sdev&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh-sdev&hide=css,java,html&theme=tokyonight">
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh-sdev" alt="Views" /> </p>
-
-### GITHUB TROPHIES
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=venkatesh-sdev)](https://github.com/ryo-ma/github-profile-trophy)<br>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=venkatesh-sdev)  
